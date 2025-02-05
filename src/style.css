@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.icon {
+    filter: invert(80%) sepia(100%) saturate(300%) hue-rotate(10deg);
+}
